@@ -1,0 +1,4 @@
+django>=2.2.0,<2.3.0
+# Elasticsearch 6.x
+elasticsearch>=6.0.0,<7.0.0
+elasticsearch-dsl>=6.0.0,<7.0.0
